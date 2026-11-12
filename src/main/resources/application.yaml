@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: clinic
+  datasource:
+    url: jdbc:postgresql://localhost:5432/clinic
+    username: test
+    password: test
